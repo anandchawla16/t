@@ -1,0 +1,7 @@
+[
+  {"fy":"2021-22","income":163.64,"ebitda":11.14,"pbt":7.34,"pat":5.61,"shareholderFunds":114.71,"dividendPercent":25},
+  {"fy":"2022-23","income":208.35,"ebitda":36.57,"pbt":32.07,"pat":23.90,"shareholderFunds":136.40,"dividendPercent":50},
+  {"fy":"2023-24","income":214.08,"ebitda":43.26,"pbt":37.26,"pat":28.39,"shareholderFunds":154.07,"dividendPercent":110},
+  {"fy":"2024-25","income":206.20,"ebitda":28.83,"pbt":22.65,"pat":17.39,"shareholderFunds":171.50,"dividendPercent":50},
+  {"fy":"2025-26","income":178.19,"ebitda":37.62,"pbt":32.61,"pat":25.10,"shareholderFunds":193.56,"dividendPercent":60}
+]
